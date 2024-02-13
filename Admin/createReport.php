@@ -73,7 +73,7 @@ $studentsAtRisk = getStudentsAtRisk();
                         </ol>
                     </div>
 
-                    <h1>Students At Risk of Dropping Out</h1>
+                    <h1>Students At Risk</h1>
 
                     <?php
                     // Display the list of students at risk
